@@ -25,3 +25,10 @@ Link to dataset: https://www.kaggle.com/datasets/rafsunahmad/billionaires-data-b
 
 <img width="481" alt="Billionaires_Dashboard" src="https://github.com/Klaud247/Power_BI_Portfolio/assets/161705800/a3c48cd1-f720-4dc2-9806-a55c1cf3e014">
 
+--- 
+## Pizza sales 🍕
+
+Link do dataset: https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?resource=download
+
+<img width="380" alt="Dashboard" src="https://github.com/Klaud247/Power_BI_Portfolio/assets/161705800/f5bca40a-462c-4997-aea2-034a78956be4">
+
